@@ -7,7 +7,7 @@
 			<img src="../image/sperm.png" style="width: 32px;height: 32px; transform: rotate(45deg);" class="mt-3 pig"/>
 			<img src="../image/sperm.png" style="width: 32px;height: 32px; transform: rotate(45deg);" class="mt-3 sheep"/>
 		<div>
-		<img src="../image/ovum.png" style="width: 200px;height: 200px; position: absolute;top: 20%;left: 90%;"></div>
+		<img src="../Image/ovum.png" style="width: 200px;height: 200px; position: absolute;top: 20%;left: 90%;"></div>
 		<div class="mt-5">
 			<button class="btn btn-success" onclick="startGame()">Play</button>
 			<button class="btn btn-danger" onclick="stopGame()">Stop</button>

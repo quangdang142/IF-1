@@ -11,6 +11,5 @@
 </head>
 <body>
     <x-header/>
-    <x-sperm-game/>
 </body>
 </html>
