@@ -21,3 +21,6 @@ Route::get('/welcome2', function () {
     return view('welcome2');
 });
 
+Route::get('/spermrace', 'App\Http\Controllers\LoginController@test');
+
+
