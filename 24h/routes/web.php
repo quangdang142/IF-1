@@ -23,4 +23,4 @@ Route::get('/welcome2', function () {
 
 Route::get('/spermrace', 'App\Http\Controllers\LoginController@test');
 
-
+//test2
