@@ -21,3 +21,7 @@ Route::get('/welcome2', function () {
     return view('welcome2');
 });
 
+Route::get('/login', function () {
+    return view('login');
+});
+
